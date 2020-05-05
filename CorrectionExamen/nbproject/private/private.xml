@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CorrectionExamen/src/dao/MysqlDB.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CorrectionExamen/src/dao/IDao.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CorrectionExamen/src/dao/DaoClasse.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CorrectionExamen/src/correctionexamen/CorrectionExamen.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CorrectionExamen/src/models/Classe.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CorrectionExamen/src/models/Affectation.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CorrectionExamen/src/dao/DaoAffectation.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CorrectionExamen/src/views/FXMLDocument.fxml</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CorrectionExamen/src/models/Professeur.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CorrectionExamen/src/views/FXMLDocumentController.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CorrectionExamen/src/dao/DaoProfesseur.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/CorrectionExamen/src/service/ExamenService.java</file>
+        </group>
+    </open-files>
+</project-private>
